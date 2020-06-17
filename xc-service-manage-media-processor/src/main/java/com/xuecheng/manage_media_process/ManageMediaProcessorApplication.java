@@ -19,7 +19,5 @@ import org.springframework.context.annotation.ComponentScan;
 public class ManageMediaProcessorApplication {
     public static void main(String[] args) {
         SpringApplication.run(ManageMediaProcessorApplication.class, args);
-
     }
-
 }
